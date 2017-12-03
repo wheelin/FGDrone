@@ -45,22 +45,4 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Sheet
-S 1900 1800 1700 2600
-U 5A23CBF1
-F0 "Power supply" 60
-F1 "power_supply.sch" 60
-$EndSheet
-$Sheet
-S 4600 1800 1950 2550
-U 5A23CC18
-F0 "Sensors & MCU" 60
-F1 "sensors_mcu_ctrl.sch" 60
-$EndSheet
-$Sheet
-S 7400 1800 1800 2550
-U 5A23CC3E
-F0 "Motors control electronic" 60
-F1 "motors.sch" 60
-$EndSheet
 $EndSCHEMATC
